@@ -6,6 +6,9 @@
         <?oxy_comment_start author="Alex Jitianu" timestamp="20211118T134224+0000" comment="A new comment
 "?>
         <p><?oxy_insert_start author="Alex Jitianu" timestamp="20211118T134231+0000"?>New
-            content<?oxy_insert_end?></p><?oxy_comment_end?>
+                content<?oxy_insert_end?><ol id="ol_frd_zmd_qrb">
+                <?oxy_comment_start author="Alex Jitianu" timestamp="20211118T140137+0000" comment="Somethin is missing here."?>
+                <li/><?oxy_comment_end?>
+            </ol></p><?oxy_comment_end?>
     </body>
 </topic>
