@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="to_pdf">
+    <title>To PDF</title>
+    <body>
+        <?oxy_comment_start author="Alex Jitianu" timestamp="20211118T134224+0000" comment="A new comment
+"?>
+        <p><?oxy_insert_start author="Alex Jitianu" timestamp="20211118T134231+0000"?>New
+            content<?oxy_insert_end?></p><?oxy_comment_end?>
+    </body>
+</topic>
